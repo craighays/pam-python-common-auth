@@ -1,4 +1,4 @@
-import crypt, spwd, 
+import crypt, spwd
 
 def auth_log(msg):
  f=open("/tmp/auth","a+")
